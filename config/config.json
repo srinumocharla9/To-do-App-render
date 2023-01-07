@@ -9,7 +9,7 @@
   "test": {
     "username": "postgres",
     "password": "POSTGRES",
-    "database": "wd_todo_test",
+    "database": "wd-todo-test",
     "host": "127.0.0.1",
     "dialect": "postgres"
     },
